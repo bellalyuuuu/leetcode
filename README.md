@@ -1,1 +1,3 @@
 # leetcode
+
+for self-study
